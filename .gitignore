@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Unversioned Files에서 환경파일 빼기
+# .idea
+.idea
